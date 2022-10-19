@@ -126,7 +126,7 @@ header {
 
 .rslides li:first-child {
 
-  position: relative;
+  position: absolute;
 
   display: block;
 
